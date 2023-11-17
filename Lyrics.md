@@ -32,11 +32,11 @@ Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux</spa
 
 **Choeurs**
 
-Laisse pas traîner ton fils\
-Si tu ne veux pas qu'il glisse\
-Qu'il te ramène du vice\
-Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse
+> Laisse pas traîner ton fils\
+> Si tu ne veux pas qu'il glisse\
+> Qu'il te ramène du vice\
+> Laisse pas traîner ton fils\
+> Si tu veux pas qu'il glisse
 
 
 **JoeyStarr**
@@ -65,11 +65,11 @@ Mes partenaires de glisse, désolé si je m'immisce
 
 **Choeur**
 
-Mais laisse pas traîner ton fils\
-Si tu ne veux pas qu'il glisse\
-Qu'il te ramène du vice\
-Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse
+> Mais laisse pas traîner ton fils\
+> Si tu ne veux pas qu'il glisse\
+> Qu'il te ramène du vice\
+> Laisse pas traîner ton fils\
+> Si tu veux pas qu'il glisse
 
 
 **Kool Shen**
@@ -94,20 +94,22 @@ Qu'il te ramène du vice
 
 **Choeur**
 
-Non laisse pas traîner ton fils\
-Laisse pas traîner ton fils\
-Si tu ne veux pas qu'il glisse\
-Qu'il te ramène du vice\
-Laisse pas traîner ton fils\
-Si tu ne veux pas qu'il glisse
+> Non laisse pas traîner ton fils\
+> Laisse pas traîner ton fils\
+> Si tu ne veux pas qu'il glisse\
+> Qu'il te ramène du vice\
+> Laisse pas traîner ton fils\
+> Si tu ne veux pas qu'il glisse
 
-Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse
-Laisse pas traîner ton fils\
-Si tu ne veux pas qu'il glisse\
-Qu'il te ramène du vice\
-Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse
+> Laisse pas traîner ton fils\
+> Si tu veux pas qu'il glisse
+> Laisse pas traîner ton fils\
+> Si tu ne veux pas qu'il glisse\
+> Qu'il te ramène du vice\
+> Laisse pas traîner ton fils\
+> Si tu veux pas qu'il glisse
+
+<!-- Deux sauts de ligne -->
 
 **Source:LyricFind**
 
